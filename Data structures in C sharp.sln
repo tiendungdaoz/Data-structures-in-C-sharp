@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_Stack", "Bai4_Stack\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_Queue", "Bai5_Queue\Bai5_Queue.csproj", "{65EF7CD1-3120-4A33-AE18-A5F518411EEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai6_BitArray", "Bai6_BitArray\Bai6_BitArray.csproj", "{30496CF4-D5EA-423E-B846-405E52EBFE4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{65EF7CD1-3120-4A33-AE18-A5F518411EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65EF7CD1-3120-4A33-AE18-A5F518411EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65EF7CD1-3120-4A33-AE18-A5F518411EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30496CF4-D5EA-423E-B846-405E52EBFE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30496CF4-D5EA-423E-B846-405E52EBFE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30496CF4-D5EA-423E-B846-405E52EBFE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30496CF4-D5EA-423E-B846-405E52EBFE4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
