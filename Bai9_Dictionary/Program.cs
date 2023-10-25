@@ -3,7 +3,7 @@ namespace DictionaryTrongCsharp
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args)
         {
             //Khai bao va khoi tao vung nho cho Dictionary
             Dictionary<string, string> myDic = new Dictionary<string, string>();
@@ -15,13 +15,15 @@ namespace DictionaryTrongCsharp
             myDic4.Add("Dao Tien Dung", "BKHN");
             myDic4.Add("Do Thi Van", "FPT");
             myDic4.Add("Sakura", "Osaka");
-            foreach (KeyValuePair<string,string> item in myDic4)
+            foreach (KeyValuePair<string, string> item in myDic4)
             {
                 Console.WriteLine("Key: {0} || Value: {1}", item.Key, item.Value);
             }
 
             //Truy xuat thong qua key
             Console.WriteLine("Gia tri Value tuong ung voi Key \"Dao Tien Dung\" la: {0}", myDic4["Dao Tien Dung"]);
+
+            //Them 1 phan tu moi vao myDic4
             myDic4["Tony"] = "Oxford";
             Console.WriteLine(myDic4.Count);
         }

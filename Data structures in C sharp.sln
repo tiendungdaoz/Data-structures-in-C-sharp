@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai6_BitArray", "Bai6_BitAr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai7_Generic", "Bai7_Generic\Bai7_Generic.csproj", "{1EFAF447-2F40-470B-ABE6-D53DBEB236DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai8_List", "Bai8_List\Bai8_List.csproj", "{BE461A3C-E9A5-4E48-A5CD-97E0313A5897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai8_List", "Bai8_List\Bai8_List.csproj", "{BE461A3C-E9A5-4E48-A5CD-97E0313A5897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai10_Dictionary", "Bai10_Dictionary\Bai10_Dictionary.csproj", "{807EEA78-D535-4C5F-BD53-66522A82E6E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai9_Dictionary", "Bai9_Dictionary\Bai9_Dictionary.csproj", "{A3184672-83A6-4D9A-84B7-BBC44825FC61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +59,10 @@ Global
 		{BE461A3C-E9A5-4E48-A5CD-97E0313A5897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE461A3C-E9A5-4E48-A5CD-97E0313A5897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE461A3C-E9A5-4E48-A5CD-97E0313A5897}.Release|Any CPU.Build.0 = Release|Any CPU
-		{807EEA78-D535-4C5F-BD53-66522A82E6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{807EEA78-D535-4C5F-BD53-66522A82E6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{807EEA78-D535-4C5F-BD53-66522A82E6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{807EEA78-D535-4C5F-BD53-66522A82E6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
