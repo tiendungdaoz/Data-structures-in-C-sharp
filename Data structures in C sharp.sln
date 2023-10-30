@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai7_Generic", "Bai7_Generi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai8_List", "Bai8_List\Bai8_List.csproj", "{BE461A3C-E9A5-4E48-A5CD-97E0313A5897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai9_Dictionary", "Bai9_Dictionary\Bai9_Dictionary.csproj", "{A3184672-83A6-4D9A-84B7-BBC44825FC61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai9_Dictionary", "Bai9_Dictionary\Bai9_Dictionary.csproj", "{A3184672-83A6-4D9A-84B7-BBC44825FC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai10_Tuple", "Bai10_Tuple\Bai10_Tuple.csproj", "{AFDA34B9-7669-41BF-AB26-046A1A7C4FF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3184672-83A6-4D9A-84B7-BBC44825FC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDA34B9-7669-41BF-AB26-046A1A7C4FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDA34B9-7669-41BF-AB26-046A1A7C4FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDA34B9-7669-41BF-AB26-046A1A7C4FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDA34B9-7669-41BF-AB26-046A1A7C4FF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
