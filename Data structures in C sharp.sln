@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai9_Dictionary", "Bai9_Dic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai10_Tuple", "Bai10_Tuple\Bai10_Tuple.csproj", "{AFDA34B9-7669-41BF-AB26-046A1A7C4FF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai11_ICollection", "Bai11_ICollection\Bai11_ICollection.csproj", "{2443EF1A-B092-43DD-9D02-8308984E910B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai11_ICollection", "Bai11_ICollection\Bai11_ICollection.csproj", "{2443EF1A-B092-43DD-9D02-8308984E910B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai12_Delagate", "Bai12_Delagate\Bai12_Delagate.csproj", "{E0F8B53C-D94E-47F3-B7E0-6987A6A95FBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2443EF1A-B092-43DD-9D02-8308984E910B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2443EF1A-B092-43DD-9D02-8308984E910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2443EF1A-B092-43DD-9D02-8308984E910B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F8B53C-D94E-47F3-B7E0-6987A6A95FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F8B53C-D94E-47F3-B7E0-6987A6A95FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F8B53C-D94E-47F3-B7E0-6987A6A95FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F8B53C-D94E-47F3-B7E0-6987A6A95FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
