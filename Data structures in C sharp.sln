@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai12_Delagate", "Bai12_Del
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai13_LinkdedList", "Bai13_LinkdedList\Bai13_LinkdedList.csproj", "{718C11E9-54AC-476D-B85E-96A7BDFFBAB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai14_HashSet", "Bai14_HashSet\Bai14_HashSet.csproj", "{B6ECFC58-1DD6-471A-A83D-7A57E82CA362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{718C11E9-54AC-476D-B85E-96A7BDFFBAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718C11E9-54AC-476D-B85E-96A7BDFFBAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{718C11E9-54AC-476D-B85E-96A7BDFFBAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6ECFC58-1DD6-471A-A83D-7A57E82CA362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ECFC58-1DD6-471A-A83D-7A57E82CA362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ECFC58-1DD6-471A-A83D-7A57E82CA362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ECFC58-1DD6-471A-A83D-7A57E82CA362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
