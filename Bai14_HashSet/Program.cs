@@ -31,7 +31,6 @@
             }
             Console.WriteLine("--------------");
 
-
             if (set1.IsSupersetOf(set2))
             {
                 Console.WriteLine($"HashSet set1 la tap chua HashSet set2");
